@@ -18,7 +18,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": "http://Max1w2ll.github.io/pages_test"
+    "homepage": "https://max1w2ll.github.io/pages_test"
   },
   "eslintConfig": {
     "extends": [
